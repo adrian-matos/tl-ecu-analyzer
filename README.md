@@ -25,4 +25,7 @@ Logs exported from the OBD Fusion app (OBD-II), fields used:
 Samples analyzed: 8400  
 Max RPM: 3420  
 Max throttle: 58%  
-Average STFT: 1.9%**
+Average STFT: 1.9%
+
+## Author
+Adrian Matos**
