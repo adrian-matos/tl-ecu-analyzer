@@ -48,9 +48,6 @@ public class ECUAnalyzer {
         System.out.println("Max RPM: " + maxRPM);
         System.out.println("Max Throttle %: " + maxThrottlePosition);
         System.out.println("Max STFT %: " + maxAbsFuelTrim);
-    }
-
-
+        }
 
     }
-
