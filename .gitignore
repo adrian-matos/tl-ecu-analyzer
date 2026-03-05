@@ -28,3 +28,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Logs / data
+*.csv
+
+# macOS
+.DS_Store
